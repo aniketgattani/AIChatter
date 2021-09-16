@@ -1,3 +1,7 @@
+# Intent:
+- Develop a chatting interface in Django which suggests emojis according to the user's messages with realtime notifications.
+- The model is based on Sentiment Analysis using the Twitter dataset and Keras for backend.
+
 # Setup:
 - pip install django==1.11.11
 - pip install pandas
